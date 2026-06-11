@@ -9,11 +9,6 @@ Auto-downloads when you run the script (no manual download needed!)
 pip install pandas numpy matplotlib seaborn
 ```
 
-## How to Run
-```bash
-python task2_eda.py
-```
-
 ## Output
 - `eda_titanic_analysis.png` — 6 charts saved automatically
 - Console shows full analysis with numbers
@@ -32,9 +27,3 @@ python task2_eda.py
 | Women vs Men | Women 74% vs Men 19% |
 | 1st vs 3rd Class | 63% vs 24% |
 | Missing Values | Age (177), Cabin (687) |
-
-## GitHub Upload
-Add these files to your `CodeAlpha_ProjectName` repo:
-- `task2_eda.py`
-- `eda_titanic_analysis.png`
-- This README
